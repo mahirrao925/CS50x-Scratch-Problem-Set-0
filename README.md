@@ -1,4 +1,4 @@
-# CS50x-Scratch-Problem-Set-0
+# CS50 Problem Set 0
 ## Problem-Set-0
 It’s time to choose your own adventure! Your assignment, quite simply, is to implement in Scratch any project of your choice, be it an interactive story, game, animation, or anything else, subject only to the following requirements:
 
